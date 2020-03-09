@@ -1,0 +1,9 @@
+
+POST /login
+host: localhost:8000
+
+###
+
+POST /testjwt
+host: localhost:8000
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Im5vbWUiOiJub21lIiwic2VuaGEiOiJzZW5oYSIsImVtYWlsIjoiZW1haWxAZ21haWwuY29tIn0sImlhdCI6MTU3NTY4OTA2MX0.4tnHPeRuwMVpFx1bdxb8IXOnMc18Dfp8Z0VqJgiTETE
